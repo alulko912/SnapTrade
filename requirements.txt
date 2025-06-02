@@ -1,0 +1,5 @@
+streamlit
+tensorflow==2.15.0
+openai
+pillow
+scikit-learn
